@@ -56,15 +56,15 @@ Hạ tầng vận hành theo mô hình CNTT Lai (Hybrid IT) kết hợp giữa M
 
 ## 📸 DEMO Giả lập tấn công 
 
-### 1. * [▶️ Xem Video: Testing Broken Access Control and Implementing API Authentication](https://drive.google.com/file/d/1gvbLTTZqTFmVG33MQYCWKkvlWETrK9Dj/view?usp=drive_link)
+### 1. * [▶️ Xem Video: Testing Broken Access Control and Implementing API Authentication](https://drive.google.com/file/d/1lgbL-YGGveEShMY73-BBU0hPeqaATsOt/view)
 
-### 2. * [▶️ Xem Video: Active Directory Kerberos Attacks & Exploit Authentication Flaws](https://drive.google.com/file/d/1Lnjp9lgvRtknqcv6ddMKJdIuRJo8CWq6/view?usp=drive_link)
+### 2. * [▶️ Xem Video: Active Directory Kerberos Attacks & Exploit Authentication Flaws](https://drive.google.com/file/d/1h7JcBlXeqUSXtIIOdqz0eHW9S0v8xwM9/view?usp=drive_link)
 
-### 3. * [▶️ Xem Video: Web Exploitation to Full System Control](https://drive.google.com/file/d/1jgaCLtsUZgqEnmYt-h9DNOd2BmoLAUrn/view?usp=drive_link)
+### 3. * [▶️ Xem Video: Web Exploitation to Full System Control](https://drive.google.com/file/d/1Imy2pi_5xNRDL8YpdBX7V-5YZXhH72pS/view?usp=drive_link)
 
-### 4. * [▶️ Xem Video: Email Phishing Stimulation & Credential Harvesting](https://drive.google.com/file/d/1wcQwBvmB3cMid3GfIMhaAeM6kN9gVSl3/view?usp=drive_link)
+### 4. * [▶️ Xem Video: Email Phishing Stimulation & Credential Harvesting](https://drive.google.com/file/d/1SOBJABuunyDdmS6jotPz-r7PcaGPdld_/view?usp=drive_link)
 
-### 5. * [▶️ Xem Video: Database Exhaustion Attack & Stress Test Registration](https://drive.google.com/file/d/1Mm7tIp9BbRuWjCdHsw55tKgyUZ2Pt916/view?usp=drive_link)
+### 5. * [▶️ Xem Video: Database Exhaustion Attack & Stress Test Registration](https://drive.google.com/file/d/186OGE99mRKgzVaxl6t8CnkNpli3Bi2Pg/view?usp=drive_link)
  
 ## 📸 REPORT Báo cáo SOC
 ### 1. [📄 Kịch bản: Giám sát & Phân tích tập trung](<./PDFs/3.11 Kịch bản Giám sát & Phân tích tập trung.pdf>)
